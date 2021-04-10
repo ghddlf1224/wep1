@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Benesi</title>
+<meta charset="utf-8">
+</head>
+
+<body>
+<strong><h1><a href="web.html">The Best Cook</a></h1></strong>
+<ol>
+<li><a href="1web.html">one</li>
+<li><a href="2web.html">two</li>
+<li><a href="3web.html">three</li>
+</ol>
+<h2><u><a href="https://post.naver.com/viewer/postView.nhn?volumeNo=16857198&memberNo=41929221"target="_blank"
+    title="네이버 맛있는 음식">가장 맛 있는 음식</a></u>  </h2>
+
+<h4><p>God loves you because it's his character.</p> 
+    <p>he loves you not because of duty, but because</p>
+   <p> it's who he is and what he does.</p> <p>To learnmore about his 
+     unconditional love , click the button below</p>
+</h4>  
+<img src="food1.jpg" width="350">
+</body>
+</html>
+
+
+
+
+
